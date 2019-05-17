@@ -12,6 +12,7 @@ http://api.openweathermap.org/data/2.5/weather?q={{city_name,country_name*}}&uni
 **city_id :**
 
 *<city_list.json>*
+Use "http://online.b1.org/online" for decompressing the archive
 
 ###### **country_name is optional*
 
